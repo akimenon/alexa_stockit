@@ -5,7 +5,7 @@ An alexa app which can be used to check NASDAQ stock prices, create personalized
    
    2) NoSQL MongoDB (cloud): portfolios/wishlist to be created will be stored in cloud. 
    
-   3) Stock prices can be pulled based on TICKER symbols, but a user may not necessarily know a ticker symbol. Hence built a         function to pull TICKER price based on the company name. It used complex regex to match the org name. Eg: say 'Amazon'         will pull ticker symbol of 'Amazon.com'
+   3) Stock prices can be pulled based on TICKER symbols, but a user may not necessarily know a ticker symbol. Hence, i have         built a function to pull TICKER price based on the company name. It used complex regex to match the org name. Eg: say         'Amazon' will pull ticker symbol of 'Amazon.com'
    
    There are further plans to expand the functionalities. More to come soon. 
    
